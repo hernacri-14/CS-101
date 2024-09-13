@@ -1,1 +1,2 @@
-# CS-101
+Cristian Hernandez
+c.hernandezaguirre@wsu.edu
